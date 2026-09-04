@@ -1,0 +1,10 @@
+Placez ici les fichiers de données INSEE requis par la chaîne :
+
+  TES_38_2000.xlsx ... TES_38_2024.xlsx   (un par année)
+  Emploi_ALL.xlsx
+  VA_brute_nominale_ALL.xlsx
+  Indices_ALL.xlsx
+  Pop_Active_ALL.xlsx
+  FBCF_branche_ALL.xlsx
+
+Voir le README.md (section 4) pour le détail des sources.
